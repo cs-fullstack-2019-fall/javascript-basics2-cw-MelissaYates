@@ -4,6 +4,7 @@ var yourName = prompt("What is your name?");
 var userName = prompt("My name is ");
 // Print the two variables in one print message.
 alert("Your name is " + userName);
+// make sure you read the directions! Your alert should read alert("My name is: " + userName)
 
 //Question 2
 //Ask the user “What is your balance”. Make sure to save that answer in a variable balance.
